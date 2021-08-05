@@ -1,0 +1,5 @@
+<$MKINCDIR/config
+PROGNAME = echod
+INCS = -I$INCDIR/
+CFILES = main.c
+
